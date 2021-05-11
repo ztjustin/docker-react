@@ -14,7 +14,6 @@ deploy:
   app: "docker"
   env: "Docker-env-1"
   bucket_name: "docker-react-tarro"
-  bucket_path: "docker"
   on: 
     branch: master
   access_key_id: $AWS_ACCESS_KEY
