@@ -14,7 +14,7 @@ deploy:
   region: "us-east-1"
   app: "docker"
   env: "docker-env"
-  bucket_name: "lasticbeanstalk-us-east-1-844965133292"
+  bucket_name: "elasticbeanstalk-us-east-1-844965133292"
   bucket_path: "docker"
   on: 
     branch: master
